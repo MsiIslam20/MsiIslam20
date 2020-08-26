@@ -23,6 +23,9 @@
 
 <ul>
   <li><a href="https://unofee.com/" rel="nofollow"><b><img src="https://camo.githubusercontent.com/28ed7f085796a52df9093ccee428bc831f27d4cb/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f6170706c652f3233372f666972655f31663532352e706e67" width="20" alt="new" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" style="max-width:100%;"> unofee.com</b></a><br><i>UnoFee Real Estate Project</i></li> 
+   <li><a href="https://pisoccer.com/" rel="nofollow"><b> pisoccer.com</b></a><br><i>Pi Soccer academy provides kids with an all-in, one-stop and complete mental, emotional, technical, physical and tactical development training system</i></li> 
+   <li><a href="https://www.kiweapp.com/" rel="nofollow"><b> kiweapp.com</b></a><br><i>Reimagine the economy and simplify your lives through Kiwe! Collect your money and spend it faster, easier and efficiently.</i></li> 
+  <li><a href="https://www.wearetapin.com/" rel="nofollow"><b> wearetapin.com</b></a><br><i>TapIn - Trusted career advice, delivered on social.</i></li>  
 </ul>
 
 <h3>Where to find me</h3>
