@@ -19,7 +19,7 @@
   <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ff451d83f7e101a002f58fd424f56cc74fea8866/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img alt="Nodejs" src="https://camo.githubusercontent.com/ff451d83f7e101a002f58fd424f56cc74fea8866/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d3433383533643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&amp;logo=Node.js&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
 
-<h3>My latest Client Projects</h3>
+<h3>My Latest Client Projects</h3>
 
 <ul>
   <li><a href="https://unofee.com/" rel="nofollow"><b><img src="https://camo.githubusercontent.com/28ed7f085796a52df9093ccee428bc831f27d4cb/68747470733a2f2f656d6f6a6970656469612d75732e73332e6475616c737461636b2e75732d776573742d312e616d617a6f6e6177732e636f6d2f7468756d62732f3234302f6170706c652f3233372f666972655f31663532352e706e67" width="20" alt="new" data-canonical-src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" style="max-width:100%;"> unofee.com</b></a><br><i>UnoFee Real Estate Project</i></li> 
